@@ -238,6 +238,7 @@
                     INTO :IBMREQD
                     FROM SYSIBM.SYSDUMMY1
            END-EXEC.
+                .
       *
            IF SQLCODE = 100
                MOVE 'No rows found on SYSDUMM1.' TO MSGERRO
