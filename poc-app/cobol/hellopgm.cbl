@@ -6,6 +6,6 @@
        OBJECT-COMPUTER. IBM-FLEX-ES.
        DATA DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO'.
+           DISPLAY 'HELLO '.
            STOP RUN.
       *
