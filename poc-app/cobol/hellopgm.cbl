@@ -7,5 +7,6 @@
        DATA DIVISION.
        PROCEDURE DIVISION.
            DISPLAY 'HELLO WORLD'.
+           DISPLAY 'Test for Impact Build'
            STOP RUN.
       *
