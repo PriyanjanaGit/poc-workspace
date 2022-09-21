@@ -90,7 +90,7 @@
 
 
        EPSCMORT-MAINLINE.
-           DISPLAY 'PROY'.
+           DISPLAY 'PROY - Test for Impact Build'
            MOVE LENGTH OF DFHCOMMAREA to W-COMAREA-LENGTH.
            MOVE DFHCOMMAREA           TO SAVE-COMM-AREA.
            EVALUATE TRUE
