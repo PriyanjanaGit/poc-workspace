@@ -1,0 +1,12 @@
+       ID DIVISION.
+       PROGRAM-ID. HELLO2.
+       ENVIRONMENT DIVISION.
+       CONFIGURATION SECTION.
+       SOURCE-COMPUTER. IBM-FLEX-ES.
+       OBJECT-COMPUTER. IBM-FLEX-ES.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY 'HELLO WORLD'.
+           DISPLAY 'PROY - Test for Impact Build'
+           STOP RUN.
+      *
