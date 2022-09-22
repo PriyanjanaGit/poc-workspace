@@ -6,7 +6,7 @@
        OBJECT-COMPUTER. IBM-FLEX-ES.
        DATA DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO 2'.
+           DISPLAY 'HELLO2'.
            DISPLAY 'PROY - Test for Impact Build'
            STOP RUN.
       *
