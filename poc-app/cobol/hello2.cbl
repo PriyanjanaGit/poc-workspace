@@ -7,6 +7,6 @@
        DATA DIVISION.
        PROCEDURE DIVISION.
            DISPLAY 'HELLO2'.
-           DISPLAY 'PROY1 - Test for Impact Build'
+           DISPLAY 'PROY - Test for Impact Build'
            STOP RUN.
       *
